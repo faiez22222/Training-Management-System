@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\bin\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.exe
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\bin\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.deps.json
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\bin\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.runtimeconfig.json
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\bin\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.dll
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\bin\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.pdb
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.dll
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\refint\Deadlock-Scenario-in-C#-and-Its-Resolution.dll
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.pdb
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\Deadlock-Scenario-in-C#-and-Its-Resolution.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Deadlock-Scenario-in-C#-and-Its-Resolution\Deadlock-Scenario-in-C#-and-Its-Resolution\obj\Debug\net8.0\ref\Deadlock-Scenario-in-C#-and-Its-Resolution.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\bin\Debug\net8.0\FractionalKnapsack.exe
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\bin\Debug\net8.0\FractionalKnapsack.deps.json
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\bin\Debug\net8.0\FractionalKnapsack.runtimeconfig.json
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\bin\Debug\net8.0\FractionalKnapsack.dll
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\bin\Debug\net8.0\FractionalKnapsack.pdb
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.dll
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\refint\FractionalKnapsack.dll
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.pdb
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\FractionalKnapsack.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FractionalKnapsack\FractionalKnapsack\obj\Debug\net8.0\ref\FractionalKnapsack.dll

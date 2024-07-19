@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeForm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|solutionrelative:EmployeeForm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeReport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|solutionrelative:EmployeeReport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15E02953-CD4E-4F6E-9785-512208D8EA86}|Solution Items{15E02953-CD4E-4F6E-9785-512208D8EA86}|solutionrelative:HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADA8D23-A3F6-4D17-8347-9D7080F92684}|NavbarDesign\\NavbarDesign.csproj|C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\navbardesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADA8D23-A3F6-4D17-8347-9D7080F92684}|NavbarDesign\\NavbarDesign.csproj|solutionrelative:navbardesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeReport.html",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeReport.html",
+              "RelativeDocumentMoniker": "EmployeeReport.html",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeReport.html",
+              "RelativeToolTip": "EmployeeReport.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T11:04:09.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeForm.html",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeForm.html",
+              "RelativeDocumentMoniker": "EmployeeForm.html",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\EmployeeForm.html",
+              "RelativeToolTip": "EmployeeForm.html",
+              "ViewState": "AQIAAJMAAAAAAAAAAADwv4kAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T10:35:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "HTMLPage1.html",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\HTMLPage1.html",
+              "RelativeToolTip": "HTMLPage1.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T09:59:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\NavbarDesign\\Program.cs",
+              "RelativeDocumentMoniker": "NavbarDesign\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\NavbarDesign\\NavbarDesign\\Program.cs",
+              "RelativeToolTip": "NavbarDesign\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:59:19.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

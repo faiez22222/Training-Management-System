@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllAssignment\\EmployeeTableMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\views\\employeecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\views\\employeecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\views\\employeecontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\views\\employeecontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|c:\\allassignment\\employeetablemvc\\employeetablemvc\\views\\employeecontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9218E25A-79B0-493F-8383-2658F6973F88}|EmployeeTableMVC\\EmployeeTableMVC.csproj|solutionrelative:employeetablemvc\\views\\employeecontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Program.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeTableMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:56:49.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Views\\EmployeeController1\\Edit.cshtml",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeTableMVC\\Views\\EmployeeController1\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T11:58:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Views\\EmployeeController1\\Index.cshtml",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Index.cshtml",
+              "RelativeToolTip": "EmployeeTableMVC\\Views\\EmployeeController1\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T11:19:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeTableMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T11:14:26.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Views\\EmployeeController1\\Create.cshtml",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Views\\EmployeeController1\\Create.cshtml",
+              "RelativeToolTip": "EmployeeTableMVC\\Views\\EmployeeController1\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T11:13:32.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController1.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Controllers\\EmployeeController1.cs",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Controllers\\EmployeeController1.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Controllers\\EmployeeController1.cs",
+              "RelativeToolTip": "EmployeeTableMVC\\Controllers\\EmployeeController1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowAwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:07:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeTableMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeTableMVC\\EmployeeTableMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeTableMVC\\Models\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:06:44.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

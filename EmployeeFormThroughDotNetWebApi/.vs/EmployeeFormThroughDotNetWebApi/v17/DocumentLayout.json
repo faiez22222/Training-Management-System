@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\models\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\models\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\migrations\\20240708104257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\migrations\\20240708104257_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|c:\\allassignment\\employeeformthroughdotnetwebapi\\employeeformthroughdotnetwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41286D37-26B5-470E-AE67-DEFA4D8294CD}|EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.csproj|solutionrelative:employeeformthroughdotnetwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\EmployeeRepository.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:54:20.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:37:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeFormThroughDotNetWebApi.http",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.http",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.http",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.http",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-09T06:33:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:00:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\Program.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:17:55.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:35:27.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\appsettings.json",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T09:36:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240708104257_InitialCreate.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Migrations\\20240708104257_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\Migrations\\20240708104257_InitialCreate.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Migrations\\20240708104257_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\Migrations\\20240708104257_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:42:57.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Models\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\Models\\EmployeeData.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\Models\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\Models\\EmployeeData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:30:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeFormThroughDotNetWebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\AllAssignment\\EmployeeFormThroughDotNetWebApi\\EmployeeFormThroughDotNetWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeFormThroughDotNetWebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:17:26.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

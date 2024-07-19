@@ -1,0 +1,14 @@
+C:\Users\faiez\source\repos\Employee\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\faiez\source\repos\Employee\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\faiez\source\repos\Employee\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\faiez\source\repos\Employee\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\faiez\source\repos\Employee\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\faiez\source\repos\Employee\Employee\obj\Debug\net8.0\ref\Employee.dll

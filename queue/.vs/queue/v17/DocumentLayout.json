@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faiez\\source\\repos\\queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DCD92B-35F9-440C-BF41-60F7E48AF755}|queue\\queue.csproj|c:\\users\\faiez\\source\\repos\\queue\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DCD92B-35F9-440C-BF41-60F7E48AF755}|queue\\queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\queue\\queue\\Program.cs",
+              "RelativeDocumentMoniker": "queue\\Program.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\queue\\queue\\Program.cs",
+              "RelativeToolTip": "queue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:46:20.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

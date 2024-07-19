@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\bin\Debug\net8.0\QueryingXMLDatawithLINQtoXML.exe
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\bin\Debug\net8.0\QueryingXMLDatawithLINQtoXML.deps.json
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\bin\Debug\net8.0\QueryingXMLDatawithLINQtoXML.runtimeconfig.json
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\bin\Debug\net8.0\QueryingXMLDatawithLINQtoXML.dll
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\bin\Debug\net8.0\QueryingXMLDatawithLINQtoXML.pdb
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.dll
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\refint\QueryingXMLDatawithLINQtoXML.dll
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.pdb
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\QueryingXMLDatawithLINQtoXML.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\QueryingXMLDatawithLINQtoXML\QueryingXMLDatawithLINQtoXML\obj\Debug\net8.0\ref\QueryingXMLDatawithLINQtoXML.dll

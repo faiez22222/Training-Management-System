@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\source\\repos\\consoleapp1\\consoleapp1\\produce\u0026consumemethos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\produce\u0026consumemethos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\source\\repos\\consoleapp1\\consoleapp1\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB41005-E720-4B18-8CFE-3A3D20A5FDBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MainMethod.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MainMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MainMethod.cs",
+              "RelativeToolTip": "ConsoleApp1\\MainMethod.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:27:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produce\u0026ConsumeMethos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Produce\u0026ConsumeMethos.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Produce\u0026ConsumeMethos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Produce\u0026ConsumeMethos.cs",
+              "RelativeToolTip": "ConsoleApp1\\Produce\u0026ConsumeMethos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:12:16.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:08:07.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

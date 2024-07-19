@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MlQc08VFHLs39xTnNosXDjF4FIphEWwzfikJiGqBleA=",
+  "Source": "EmployeeFormThroughDotNetWebApi",
+  "BasePath": "_content/EmployeeFormThroughDotNetWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

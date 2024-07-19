@@ -1,0 +1,14 @@
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\bin\Debug\net8.0\BicycleCar.exe
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\bin\Debug\net8.0\BicycleCar.deps.json
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\bin\Debug\net8.0\BicycleCar.runtimeconfig.json
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\bin\Debug\net8.0\BicycleCar.dll
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\bin\Debug\net8.0\BicycleCar.pdb
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.AssemblyInfoInputs.cache
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.AssemblyInfo.cs
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.csproj.CoreCompileInputs.cache
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.dll
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\refint\BicycleCar.dll
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.pdb
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\BicycleCar.genruntimeconfig.cache
+C:\Users\faiez\source\repos\BicycleCar\BicycleCar\obj\Debug\net8.0\ref\BicycleCar.dll

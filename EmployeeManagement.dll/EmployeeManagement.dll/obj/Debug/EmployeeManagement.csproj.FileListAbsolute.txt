@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\bin\Debug\EmployeeManagement.dll.dll
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\bin\Debug\EmployeeManagement.dll.pdb
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\obj\Debug\EmployeeManagement.dll.dll
+C:\Users\Administrator\source\repos\EmployeeManagement.dll\EmployeeManagement.dll\obj\Debug\EmployeeManagement.dll.pdb

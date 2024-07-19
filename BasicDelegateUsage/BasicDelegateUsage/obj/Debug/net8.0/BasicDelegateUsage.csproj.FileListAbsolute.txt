@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\bin\Debug\net8.0\BasicDelegateUsage.exe
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\bin\Debug\net8.0\BasicDelegateUsage.deps.json
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\bin\Debug\net8.0\BasicDelegateUsage.runtimeconfig.json
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\bin\Debug\net8.0\BasicDelegateUsage.dll
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\bin\Debug\net8.0\BasicDelegateUsage.pdb
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.dll
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\refint\BasicDelegateUsage.dll
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.pdb
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\BasicDelegateUsage.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BasicDelegateUsage\BasicDelegateUsage\obj\Debug\net8.0\ref\BasicDelegateUsage.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\bin\Debug\net8.0\Implementing-a-Thread-Pool.exe
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\bin\Debug\net8.0\Implementing-a-Thread-Pool.deps.json
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\bin\Debug\net8.0\Implementing-a-Thread-Pool.runtimeconfig.json
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\bin\Debug\net8.0\Implementing-a-Thread-Pool.dll
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\bin\Debug\net8.0\Implementing-a-Thread-Pool.pdb
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.dll
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\refint\Implementing-a-Thread-Pool.dll
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.pdb
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\Implementing-a-Thread-Pool.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Implementing-a-Thread-Pool\Implementing-a-Thread-Pool\obj\Debug\net8.0\ref\Implementing-a-Thread-Pool.dll

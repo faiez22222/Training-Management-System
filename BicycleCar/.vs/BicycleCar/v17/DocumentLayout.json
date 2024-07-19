@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|c:\\users\\faiez\\source\\repos\\bicyclecar\\bicyclecar\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|solutionrelative:bicyclecar\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|c:\\users\\faiez\\source\\repos\\bicyclecar\\bicyclecar\\bycycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|solutionrelative:bicyclecar\\bycycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|c:\\users\\faiez\\source\\repos\\bicyclecar\\bicyclecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|solutionrelative:bicyclecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|c:\\users\\faiez\\source\\repos\\bicyclecar\\bicyclecar\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|solutionrelative:bicyclecar\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|c:\\users\\faiez\\source\\repos\\bicyclecar\\bicyclecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32CB344-9246-4DD8-BCCD-BDCB954D5B9C}|BicycleCar\\BicycleCar.csproj|solutionrelative:bicyclecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\MainMethod.cs",
+              "RelativeDocumentMoniker": "BicycleCar\\MainMethod.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\MainMethod.cs",
+              "RelativeToolTip": "BicycleCar\\MainMethod.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:45:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bycycle.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Bycycle.cs",
+              "RelativeDocumentMoniker": "BicycleCar\\Bycycle.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Bycycle.cs",
+              "RelativeToolTip": "BicycleCar\\Bycycle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA2wB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:40:39.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Car.cs",
+              "RelativeDocumentMoniker": "BicycleCar\\Car.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Car.cs",
+              "RelativeToolTip": "BicycleCar\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:34:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDrivable.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\IDrivable.cs",
+              "RelativeDocumentMoniker": "BicycleCar\\IDrivable.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\IDrivable.cs",
+              "RelativeToolTip": "BicycleCar\\IDrivable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:32:57.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Program.cs",
+              "RelativeDocumentMoniker": "BicycleCar\\Program.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BicycleCar\\BicycleCar\\Program.cs",
+              "RelativeToolTip": "BicycleCar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:31:25.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

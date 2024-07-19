@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book>
+    <title>Book One</title>
+    <author>John Doe</author>
+    <price>29.99</price>
+  </book>
+  <book>
+    <title>Book Two</title>
+    <author>Jane Smith</author>
+    <price>39.99</price>
+  </book>
+  <book>
+    <title>Book Three</title>
+    <author>John Doe</author>
+    <price>19.99</price>
+  </book>
+  <book>
+    <title>Book Four</title>
+    <author>John Doe</author>
+    <price>24.99</price>
+  </book>
+  <book>
+    <title>Book Five</title>
+    <author>Jane Smith</author>
+    <price>34.99</price>
+  </book>
+</bookstore>

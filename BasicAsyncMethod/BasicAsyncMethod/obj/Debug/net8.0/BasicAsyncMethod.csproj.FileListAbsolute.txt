@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\bin\Debug\net8.0\BasicAsyncMethod.exe
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\bin\Debug\net8.0\BasicAsyncMethod.deps.json
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\bin\Debug\net8.0\BasicAsyncMethod.runtimeconfig.json
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\bin\Debug\net8.0\BasicAsyncMethod.dll
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\bin\Debug\net8.0\BasicAsyncMethod.pdb
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.dll
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\refint\BasicAsyncMethod.dll
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.pdb
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\BasicAsyncMethod.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BasicAsyncMethod\BasicAsyncMethod\obj\Debug\net8.0\ref\BasicAsyncMethod.dll

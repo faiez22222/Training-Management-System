@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\bin\Debug\net8.0\ReturningDatafromAsyncMethod.exe
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\bin\Debug\net8.0\ReturningDatafromAsyncMethod.deps.json
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\bin\Debug\net8.0\ReturningDatafromAsyncMethod.runtimeconfig.json
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\bin\Debug\net8.0\ReturningDatafromAsyncMethod.dll
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\bin\Debug\net8.0\ReturningDatafromAsyncMethod.pdb
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.dll
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\refint\ReturningDatafromAsyncMethod.dll
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.pdb
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ReturningDatafromAsyncMethod.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ReturningDatafromAsyncMethod\ReturningDatafromAsyncMethod\obj\Debug\net8.0\ref\ReturningDatafromAsyncMethod.dll

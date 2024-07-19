@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\bin\Debug\net8.0\ChainAsyncMethod.exe
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\bin\Debug\net8.0\ChainAsyncMethod.deps.json
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\bin\Debug\net8.0\ChainAsyncMethod.runtimeconfig.json
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\bin\Debug\net8.0\ChainAsyncMethod.dll
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\bin\Debug\net8.0\ChainAsyncMethod.pdb
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.dll
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\refint\ChainAsyncMethod.dll
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.pdb
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ChainAsyncMethod.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ChainAsyncMethod\ChainAsyncMethod\obj\Debug\net8.0\ref\ChainAsyncMethod.dll

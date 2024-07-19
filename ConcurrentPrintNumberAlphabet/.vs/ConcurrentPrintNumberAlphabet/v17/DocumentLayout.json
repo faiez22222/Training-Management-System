@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|c:\\users\\administrator\\source\\repos\\concurrentprintnumberalphabet\\concurrentprintnumberalphabet\\printmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|solutionrelative:concurrentprintnumberalphabet\\printmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|c:\\users\\administrator\\source\\repos\\concurrentprintnumberalphabet\\concurrentprintnumberalphabet\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|solutionrelative:concurrentprintnumberalphabet\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|c:\\users\\administrator\\source\\repos\\concurrentprintnumberalphabet\\concurrentprintnumberalphabet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954B082D-2B91-4755-ADAA-17F28E1B30D1}|ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet.csproj|solutionrelative:concurrentprintnumberalphabet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\PrintMethod.cs",
+              "RelativeDocumentMoniker": "ConcurrentPrintNumberAlphabet\\PrintMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\PrintMethod.cs",
+              "RelativeToolTip": "ConcurrentPrintNumberAlphabet\\PrintMethod.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:37:23.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\MainMethod.cs",
+              "RelativeDocumentMoniker": "ConcurrentPrintNumberAlphabet\\MainMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\MainMethod.cs",
+              "RelativeToolTip": "ConcurrentPrintNumberAlphabet\\MainMethod.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:36:40.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\Program.cs",
+              "RelativeDocumentMoniker": "ConcurrentPrintNumberAlphabet\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConcurrentPrintNumberAlphabet\\ConcurrentPrintNumberAlphabet\\Program.cs",
+              "RelativeToolTip": "ConcurrentPrintNumberAlphabet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:36:00.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<h1>Employee List Content</h1>
+<table class="table" border="1">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Gender</th>
+    <th>Address</th>
+  </tr>
+  <ng-container *ngFor="let emp of employees">
+    <tr *ngIf="emp.id < 5">
+      <td style="background-color: red;">{{emp.id}}</td>
+      <td style="background-color: red;">{{emp.name}}</td>
+      <td style="background-color: red;">{{emp.gender | lowercase}}</td>
+      <td style="background-color: red;">{{emp.address}}</td>
+    </tr>
+    <tr *ngIf="emp.id >= 5">
+      <td style="background-color: green;">{{emp.id}}</td>
+      <td style="background-color: green;">{{emp.name}}</td>
+      <td style="background-color: green;">{{emp.gender | lowercase}}</td>
+      <td style="background-color: green;">{{emp.address}}</td>
+    </tr>
+  </ng-container>
+  <tr *ngIf="employees.length == 0">
+    <td colspan="4">No employee found</td>
+  </tr>
+</table>

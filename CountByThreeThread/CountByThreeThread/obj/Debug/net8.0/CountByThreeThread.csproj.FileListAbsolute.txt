@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\bin\Debug\net8.0\CountByThreeThread.exe
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\bin\Debug\net8.0\CountByThreeThread.deps.json
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\bin\Debug\net8.0\CountByThreeThread.runtimeconfig.json
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\bin\Debug\net8.0\CountByThreeThread.dll
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\bin\Debug\net8.0\CountByThreeThread.pdb
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.dll
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\refint\CountByThreeThread.dll
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.pdb
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\CountByThreeThread.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CountByThreeThread\CountByThreeThread\obj\Debug\net8.0\ref\CountByThreeThread.dll

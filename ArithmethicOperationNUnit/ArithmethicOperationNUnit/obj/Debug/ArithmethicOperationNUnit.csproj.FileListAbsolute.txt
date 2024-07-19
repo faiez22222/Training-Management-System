@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\bin\Debug\ArithmethicOperationNUnit.dll
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\bin\Debug\ArithmethicOperationNUnit.pdb
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\obj\Debug\ArithmethicOperationNUnit.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\obj\Debug\ArithmethicOperationNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\obj\Debug\ArithmethicOperationNUnit.dll
+C:\Users\Administrator\source\repos\ArithmethicOperationNUnit\ArithmethicOperationNUnit\obj\Debug\ArithmethicOperationNUnit.pdb

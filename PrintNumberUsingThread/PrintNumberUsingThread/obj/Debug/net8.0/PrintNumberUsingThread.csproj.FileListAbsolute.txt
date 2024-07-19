@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\bin\Debug\net8.0\PrintNumberUsingThread.exe
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\bin\Debug\net8.0\PrintNumberUsingThread.deps.json
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\bin\Debug\net8.0\PrintNumberUsingThread.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\bin\Debug\net8.0\PrintNumberUsingThread.dll
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\bin\Debug\net8.0\PrintNumberUsingThread.pdb
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.dll
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\refint\PrintNumberUsingThread.dll
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.pdb
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\PrintNumberUsingThread.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PrintNumberUsingThread\PrintNumberUsingThread\obj\Debug\net8.0\ref\PrintNumberUsingThread.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\bin\Debug\net8.0\Counting-Set-Bits.exe
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\bin\Debug\net8.0\Counting-Set-Bits.deps.json
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\bin\Debug\net8.0\Counting-Set-Bits.runtimeconfig.json
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\bin\Debug\net8.0\Counting-Set-Bits.dll
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\bin\Debug\net8.0\Counting-Set-Bits.pdb
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.dll
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\refint\Counting-Set-Bits.dll
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.pdb
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\Counting-Set-Bits.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Counting-Set-Bits\Counting-Set-Bits\obj\Debug\net8.0\ref\Counting-Set-Bits.dll

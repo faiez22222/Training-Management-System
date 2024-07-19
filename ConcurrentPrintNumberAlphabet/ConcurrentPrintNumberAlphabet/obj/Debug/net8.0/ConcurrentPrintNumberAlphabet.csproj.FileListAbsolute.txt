@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\bin\Debug\net8.0\ConcurrentPrintNumberAlphabet.exe
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\bin\Debug\net8.0\ConcurrentPrintNumberAlphabet.deps.json
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\bin\Debug\net8.0\ConcurrentPrintNumberAlphabet.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\bin\Debug\net8.0\ConcurrentPrintNumberAlphabet.dll
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\bin\Debug\net8.0\ConcurrentPrintNumberAlphabet.pdb
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.dll
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\refint\ConcurrentPrintNumberAlphabet.dll
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.pdb
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ConcurrentPrintNumberAlphabet.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConcurrentPrintNumberAlphabet\ConcurrentPrintNumberAlphabet\obj\Debug\net8.0\ref\ConcurrentPrintNumberAlphabet.dll

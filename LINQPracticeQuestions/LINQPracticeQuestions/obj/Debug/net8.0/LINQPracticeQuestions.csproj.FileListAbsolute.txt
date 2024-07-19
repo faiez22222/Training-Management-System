@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\bin\Debug\net8.0\LINQPracticeQuestions.exe
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\bin\Debug\net8.0\LINQPracticeQuestions.deps.json
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\bin\Debug\net8.0\LINQPracticeQuestions.runtimeconfig.json
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\bin\Debug\net8.0\LINQPracticeQuestions.dll
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\bin\Debug\net8.0\LINQPracticeQuestions.pdb
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.dll
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\refint\LINQPracticeQuestions.dll
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.pdb
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\LINQPracticeQuestions.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LINQPracticeQuestions\LINQPracticeQuestions\obj\Debug\net8.0\ref\LINQPracticeQuestions.dll

@@ -1,0 +1,1 @@
+C:\Users\Administrator\source\repos\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\obj\Debug\net8.0\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.GeneratedMSBuildEditorConfig.editorconfig

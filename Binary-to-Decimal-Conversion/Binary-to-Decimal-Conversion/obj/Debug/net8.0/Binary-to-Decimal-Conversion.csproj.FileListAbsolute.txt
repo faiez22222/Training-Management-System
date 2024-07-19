@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\bin\Debug\net8.0\Binary-to-Decimal-Conversion.exe
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\bin\Debug\net8.0\Binary-to-Decimal-Conversion.deps.json
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\bin\Debug\net8.0\Binary-to-Decimal-Conversion.runtimeconfig.json
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\bin\Debug\net8.0\Binary-to-Decimal-Conversion.dll
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\bin\Debug\net8.0\Binary-to-Decimal-Conversion.pdb
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.dll
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\refint\Binary-to-Decimal-Conversion.dll
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.pdb
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\Binary-to-Decimal-Conversion.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Binary-to-Decimal-Conversion\Binary-to-Decimal-Conversion\obj\Debug\net8.0\ref\Binary-to-Decimal-Conversion.dll

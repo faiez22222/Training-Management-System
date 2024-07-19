@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQPracticeQuestions/1.0.0": {
+        "runtime": {
+          "LINQPracticeQuestions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQPracticeQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\bin\Debug\NavbarDesign.exe.config
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\bin\Debug\NavbarDesign.exe
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\bin\Debug\NavbarDesign.pdb
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\obj\Debug\NavbarDesign.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\obj\Debug\NavbarDesign.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\obj\Debug\NavbarDesign.exe
+C:\Users\Administrator\source\repos\NavbarDesign\NavbarDesign\obj\Debug\NavbarDesign.pdb

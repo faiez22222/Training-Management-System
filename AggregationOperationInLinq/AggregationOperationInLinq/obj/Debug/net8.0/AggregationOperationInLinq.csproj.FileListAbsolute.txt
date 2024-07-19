@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\bin\Debug\net8.0\AggregationOperationInLinq.exe
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\bin\Debug\net8.0\AggregationOperationInLinq.deps.json
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\bin\Debug\net8.0\AggregationOperationInLinq.runtimeconfig.json
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\bin\Debug\net8.0\AggregationOperationInLinq.dll
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\bin\Debug\net8.0\AggregationOperationInLinq.pdb
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.dll
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\refint\AggregationOperationInLinq.dll
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.pdb
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\AggregationOperationInLinq.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AggregationOperationInLinq\AggregationOperationInLinq\obj\Debug\net8.0\ref\AggregationOperationInLinq.dll

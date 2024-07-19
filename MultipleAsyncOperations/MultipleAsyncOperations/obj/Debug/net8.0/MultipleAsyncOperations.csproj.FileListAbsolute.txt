@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\bin\Debug\net8.0\MultipleAsyncOperations.exe
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\bin\Debug\net8.0\MultipleAsyncOperations.deps.json
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\bin\Debug\net8.0\MultipleAsyncOperations.runtimeconfig.json
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\bin\Debug\net8.0\MultipleAsyncOperations.dll
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\bin\Debug\net8.0\MultipleAsyncOperations.pdb
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.dll
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\refint\MultipleAsyncOperations.dll
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.pdb
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\MultipleAsyncOperations.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MultipleAsyncOperations\MultipleAsyncOperations\obj\Debug\net8.0\ref\MultipleAsyncOperations.dll

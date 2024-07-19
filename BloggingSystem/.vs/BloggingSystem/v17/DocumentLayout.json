@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\administrator\\source\\repos\\bloggingsystem\\bloggingsystem\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\administrator\\source\\repos\\bloggingsystem\\bloggingsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\administrator\\source\\repos\\bloggingsystem\\bloggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\administrator\\source\\repos\\bloggingsystem\\bloggingsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\administrator\\source\\repos\\bloggingsystem\\bloggingsystem\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D0F932-D4AD-4A27-8092-B87575D5AF6B}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "BloggingSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:42:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\BloggingContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\BloggingContext.cs",
+              "RelativeToolTip": "BloggingSystem\\BloggingContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:23:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Blog.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\Blog.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Blog.cs",
+              "RelativeToolTip": "BloggingSystem\\Blog.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:34:58.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\App.config",
+              "RelativeDocumentMoniker": "BloggingSystem\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\App.config",
+              "RelativeToolTip": "BloggingSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T20:32:31.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BloggingSystem\\BloggingSystem\\Program.cs",
+              "RelativeToolTip": "BloggingSystem\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:31:04.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

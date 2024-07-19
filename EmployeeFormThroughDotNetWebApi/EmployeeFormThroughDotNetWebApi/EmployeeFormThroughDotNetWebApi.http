@@ -1,0 +1,6 @@
+@EmployeeFormThroughDotNetWebApi_HostAddress = http://localhost:5230
+
+GET {{EmployeeFormThroughDotNetWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

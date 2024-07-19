@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\bin\Debug\net8.0\FilteringandAggregatingData.exe
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\bin\Debug\net8.0\FilteringandAggregatingData.deps.json
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\bin\Debug\net8.0\FilteringandAggregatingData.runtimeconfig.json
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\bin\Debug\net8.0\FilteringandAggregatingData.dll
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\bin\Debug\net8.0\FilteringandAggregatingData.pdb
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.dll
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\refint\FilteringandAggregatingData.dll
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.pdb
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\FilteringandAggregatingData.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FilteringandAggregatingData\FilteringandAggregatingData\obj\Debug\net8.0\ref\FilteringandAggregatingData.dll

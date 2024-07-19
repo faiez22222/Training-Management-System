@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\IntToStrStroToIntMulticalstDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62589D8F-98C9-4769-B5C4-FD5406131A38}|IntToStrStroToIntMulticalstDelegate\\IntToStrStroToIntMulticalstDelegate.csproj|c:\\users\\administrator\\source\\repos\\inttostrstrotointmulticalstdelegate\\inttostrstrotointmulticalstdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62589D8F-98C9-4769-B5C4-FD5406131A38}|IntToStrStroToIntMulticalstDelegate\\IntToStrStroToIntMulticalstDelegate.csproj|solutionrelative:inttostrstrotointmulticalstdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\IntToStrStroToIntMulticalstDelegate\\IntToStrStroToIntMulticalstDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "IntToStrStroToIntMulticalstDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\IntToStrStroToIntMulticalstDelegate\\IntToStrStroToIntMulticalstDelegate\\Program.cs",
+              "RelativeToolTip": "IntToStrStroToIntMulticalstDelegate\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwC8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:21:59.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

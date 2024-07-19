@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\bin\Debug\net8.0\FindTwoUniqueElement.exe
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\bin\Debug\net8.0\FindTwoUniqueElement.deps.json
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\bin\Debug\net8.0\FindTwoUniqueElement.runtimeconfig.json
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\bin\Debug\net8.0\FindTwoUniqueElement.dll
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\bin\Debug\net8.0\FindTwoUniqueElement.pdb
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.dll
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\refint\FindTwoUniqueElement.dll
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.pdb
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\FindTwoUniqueElement.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FindTwoUniqueElement\FindTwoUniqueElement\obj\Debug\net8.0\ref\FindTwoUniqueElement.dll

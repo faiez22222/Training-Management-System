@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\bin\Debug\net8.0\JobSequencingProblem.exe
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\bin\Debug\net8.0\JobSequencingProblem.deps.json
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\bin\Debug\net8.0\JobSequencingProblem.runtimeconfig.json
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\bin\Debug\net8.0\JobSequencingProblem.dll
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\bin\Debug\net8.0\JobSequencingProblem.pdb
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.dll
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\refint\JobSequencingProblem.dll
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.pdb
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\JobSequencingProblem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JobSequencingProblem\JobSequencingProblem\obj\Debug\net8.0\ref\JobSequencingProblem.dll

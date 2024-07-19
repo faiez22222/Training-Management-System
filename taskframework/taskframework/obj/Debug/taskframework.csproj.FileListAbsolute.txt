@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\taskframework\taskframework\obj\Debug\taskframework.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\taskframework\taskframework\obj\Debug\taskframework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\taskframework\taskframework\bin\Debug\taskframework.exe.config
+C:\Users\Administrator\source\repos\taskframework\taskframework\bin\Debug\taskframework.exe
+C:\Users\Administrator\source\repos\taskframework\taskframework\bin\Debug\taskframework.pdb
+C:\Users\Administrator\source\repos\taskframework\taskframework\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\taskframework\taskframework\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\taskframework\taskframework\obj\Debug\taskfram.740181FA.Up2Date
+C:\Users\Administrator\source\repos\taskframework\taskframework\obj\Debug\taskframework.exe
+C:\Users\Administrator\source\repos\taskframework\taskframework\obj\Debug\taskframework.pdb

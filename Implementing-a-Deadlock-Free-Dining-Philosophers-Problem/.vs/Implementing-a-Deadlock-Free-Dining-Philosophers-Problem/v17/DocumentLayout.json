@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|c:\\users\\administrator\\source\\repos\\implementing-a-deadlock-free-dining-philosophers-problem\\implementing-a-deadlock-free-dining-philosophers-problem\\deadlockresolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|solutionrelative:implementing-a-deadlock-free-dining-philosophers-problem\\deadlockresolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|c:\\users\\administrator\\source\\repos\\implementing-a-deadlock-free-dining-philosophers-problem\\implementing-a-deadlock-free-dining-philosophers-problem\\deadlocksituation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|solutionrelative:implementing-a-deadlock-free-dining-philosophers-problem\\deadlocksituation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|c:\\users\\administrator\\source\\repos\\implementing-a-deadlock-free-dining-philosophers-problem\\implementing-a-deadlock-free-dining-philosophers-problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8236183-8509-4ED6-9B7F-2589D4A782B2}|Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem.csproj|solutionrelative:implementing-a-deadlock-free-dining-philosophers-problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeadLockResolve.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockResolve.cs",
+              "RelativeDocumentMoniker": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockResolve.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockResolve.cs",
+              "RelativeToolTip": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockResolve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:27:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeadLockSituation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockSituation.cs",
+              "RelativeDocumentMoniker": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockSituation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockSituation.cs",
+              "RelativeToolTip": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\DeadLockSituation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:59:38.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Program.cs",
+              "RelativeDocumentMoniker": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Program.cs",
+              "RelativeToolTip": "Implementing-a-Deadlock-Free-Dining-Philosophers-Problem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:58:55.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

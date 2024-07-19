@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\bin\Debug\net8.0\JumpSort.exe
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\bin\Debug\net8.0\JumpSort.deps.json
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\bin\Debug\net8.0\JumpSort.runtimeconfig.json
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\bin\Debug\net8.0\JumpSort.dll
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\bin\Debug\net8.0\JumpSort.pdb
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.dll
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\refint\JumpSort.dll
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.pdb
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\JumpSort.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JumpSort\JumpSort\obj\Debug\net8.0\ref\JumpSort.dll

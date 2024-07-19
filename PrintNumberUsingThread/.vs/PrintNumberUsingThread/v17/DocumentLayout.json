@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|c:\\users\\administrator\\source\\repos\\printnumberusingthread\\printnumberusingthread\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|solutionrelative:printnumberusingthread\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|c:\\users\\administrator\\source\\repos\\printnumberusingthread\\printnumberusingthread\\printmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|solutionrelative:printnumberusingthread\\printmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|c:\\users\\administrator\\source\\repos\\printnumberusingthread\\printnumberusingthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4644083B-66CF-4736-A7CA-FC60185A4F28}|PrintNumberUsingThread\\PrintNumberUsingThread.csproj|solutionrelative:printnumberusingthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\PrintMethod.cs",
+              "RelativeDocumentMoniker": "PrintNumberUsingThread\\PrintMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\PrintMethod.cs",
+              "RelativeToolTip": "PrintNumberUsingThread\\PrintMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:56:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\MainMethod.cs",
+              "RelativeDocumentMoniker": "PrintNumberUsingThread\\MainMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\MainMethod.cs",
+              "RelativeToolTip": "PrintNumberUsingThread\\MainMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:33:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\Program.cs",
+              "RelativeDocumentMoniker": "PrintNumberUsingThread\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PrintNumberUsingThread\\PrintNumberUsingThread\\Program.cs",
+              "RelativeToolTip": "PrintNumberUsingThread\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:32:15.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

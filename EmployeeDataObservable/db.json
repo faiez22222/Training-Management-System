@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "gender": "male",
+      "code": "1",
+      "salary": 50000,
+      "dob": "1990-01-01"
+    },
+    {
+      "name": "Jane Smith",
+      "gender": "female",
+      "code": "2",
+      "salary": 55000,
+      "dob": "1985-02-15"
+    },
+    {
+      "name": "Michael Johnson",
+      "gender": "male",
+      "code": "3",
+      "salary": 60000,
+      "dob": "1978-03-20"
+    },
+    {
+      "name": "Emily Davis",
+      "gender": "female",
+      "code": "4",
+      "salary": 62000,
+      "dob": "1992-07-25"
+    },
+    {
+      "name": "David Martinez",
+      "gender": "male",
+      "code": "5",
+      "salary": 58000,
+      "dob": "1988-11-10"
+    }
+  ]
+}
